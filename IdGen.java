@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 /**
  * 封装各种生成唯一性ID算法的工具类.
  * @author jeeplus
- * @version 2013-01-15
+ * @version 2013-01-152222
  */
 @Service
 @Lazy(false)
